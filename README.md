@@ -5,6 +5,10 @@
 A [SolidJS](https://www.solidjs.com/) library for [FastComments](https://fastcomments.com). Ports the official
 [`fastcomments-react`](https://github.com/fastcomments/fastcomments-react) widgets to idiomatic Solid components.
 
+## Live Demo
+
+Try every widget live at <https://fastcomments.com/commenting-system-for-solidjs>.
+
 ## Install
 
 ```bash
