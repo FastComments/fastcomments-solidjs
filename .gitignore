@@ -1,0 +1,7 @@
+node_modules
+dist
+demo-dist
+examples/**/dist
+examples/**/node_modules
+*.log
+.DS_Store
