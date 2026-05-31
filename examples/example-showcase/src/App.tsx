@@ -142,7 +142,7 @@ const App: Component = () => {
             <button type="button" class={`fc-theme-toggle__btn${theme() === 'dark' ? ' is-active' : ''}`} onClick={() => setTheme('dark')}>Dark</button>
           </div>
           <div><code>npm i fastcomments-solidjs</code></div>
-          <a href="https://fastcomments.com" rel="noopener">fastcomments.com ↗</a>
+          <a href="https://fastcomments.com" rel="noopener">fastcomments.com</a>
         </footer>
       </aside>
 
