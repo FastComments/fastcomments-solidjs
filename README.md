@@ -7,7 +7,7 @@ A [SolidJS](https://www.solidjs.com/) library for [FastComments](https://fastcom
 
 ## Live Demo
 
-Try every widget live at <https://fastcomments.com/commenting-system-for-solidjs>.
+Try every widget live at <https://fastcomments.com/commenting-system-for-solidjs/>.
 
 ## Install
 
